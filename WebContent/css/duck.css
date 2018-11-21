@@ -1,0 +1,29 @@
+.duck
+{
+    /*background-color: red;*/
+}
+@keyframes duck_1
+{
+     from {background-image:url('../image/duck_1.png'); background-position:0px 0px;}
+     to {background-image:url('../image/duck_1.png'); background-position:-1400px 0px;}
+}
+ 
+@keyframes duck_2
+{
+     from {background-image:url('../image/duck_2.png'); background-position:0px 0px;}
+     to {background-image:url('../image/duck_2.png'); background-position:-1400px 0px;}
+}
+
+@keyframes duck_3
+{
+     from {background-image:url('../image/duck_3.png'); background-position:0px 0px;}
+     to {background-image:url('../image/duck_3.png'); background-position:-1400px 0px;}
+}
+ 
+@keyframes duck_4
+{
+     from {background-image:url('../image/duck_4.png'); background-position:0px 0px;}
+     to {background-image:url('../image/duck_4.png'); background-position:-1400px 0px;}
+}
+
+ 
