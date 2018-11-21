@@ -7,6 +7,6 @@
 <title>Spring</title>
 </head>
 <body>
-    This is test main.jsp
+    This is test main.jsp   
 </body>
 </html>
